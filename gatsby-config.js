@@ -11,7 +11,7 @@ module.exports = {
     siteTitleAlt: `Rory James`,
     siteHeadline: `Rory James`,
     siteUrl: `https://www.roryjames.dev`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteDescription: `Landing Pad`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
@@ -27,7 +27,7 @@ module.exports = {
       options: {
         name: `Rory James`,
         short_name: `RoryJames`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        description: `Landing Pad`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
